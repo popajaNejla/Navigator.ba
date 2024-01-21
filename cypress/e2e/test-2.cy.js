@@ -1,4 +1,4 @@
-describe('My Second Test', () => {
+describe('Search test 2', () => {
   it('Gets, types and asserts', () => {
     cy.visit('https://www.navigator.ba')
 
